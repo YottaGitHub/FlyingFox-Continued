@@ -3,8 +3,7 @@
 <p align="center"><img src="https://img.shields.io/github/downloads/akshat46/flyingfox/total?color=%2350D1C6&style=for-the-badge"> <img src="https://img.shields.io/netlify/b7d2d26f-028a-4ea3-b292-6a0599a0a2f6?color=%235FCECD&label=Netlify&style=for-the-badge"></p>
 
 <p align="center"><strong> This is a continutation of <a href="https://github.com/akshat46/FlyingFox">FlyingFox</a>. I will be working on it soon. <strong></p>
-
-/*<h5 align="center"><a href="https://github.com/akshat46/FlyingFox/releases">Get it here</a> and <a href="http://flyingfox.netlify.app">visit the app</a> to customize</h5>*/
+  
 
 Yeah I think this is super cool so I am going to attempt a continuation of it. Of course the majority of credit goes to the original creator, akshat46.
 
