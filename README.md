@@ -4,7 +4,7 @@
 
 <p align="center"><strong> This is a continutation of <a href="https://github.com/akshat46/FlyingFox">FlyingFox</a>. I will be working on it soon. <strong></p>
 
-// <h5 align="center"><a href="https://github.com/akshat46/FlyingFox/releases">Get it here</a> and <a href="http://flyingfox.netlify.app">visit the app</a> to customize</h5>
+/*<h5 align="center"><a href="https://github.com/akshat46/FlyingFox/releases">Get it here</a> and <a href="http://flyingfox.netlify.app">visit the app</a> to customize</h5>*/
 
 Yeah I think this is super cool so I am going to attempt a continuation of it. Of course the majority of credit goes to the original creator, akshat46.
 
