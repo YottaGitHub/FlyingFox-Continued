@@ -6,9 +6,7 @@
 
 // <h5 align="center"><a href="https://github.com/akshat46/FlyingFox/releases">Get it here</a> and <a href="http://flyingfox.netlify.app">visit the app</a> to customize</h5>
 
-## Looking for Maintainers
-
-I've been distracted by a full-time job, and other side projects and probably won't have time to fix the long list of bugs introduced by Proton UI for a while. If you would like to help out in any way, please ping me or open a pull request.
+Yeah I think this is super cool so I am going to attempt a continuation of it. Of course the majority of credit goes to the original creator, akshat46.
 
 <p align="center"><img width="720" src="https://github.com/akshat46/FlyingFox/blob/master/img/preview-full.png"></p>
 
